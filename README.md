@@ -23,3 +23,10 @@ make
 See the U-Boot upstream patch series for each SoC:
 
 - **K1**: https://lore.kernel.org/u-boot/20260210151459.2348758-1-raymondmaoca@gmail.com/
+
+## Discussion
+
+For discussions about SpacemiT U-Boot, please CC the mailing list:
+u-boot-spacemit@groups.io
+
+Archive: https://groups.io/g/u-boot-spacemit/messages
