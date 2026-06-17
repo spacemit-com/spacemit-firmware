@@ -24,6 +24,16 @@ See the U-Boot upstream patch series for each SoC:
 
 - **K1**: https://lore.kernel.org/u-boot/20260210151459.2348758-1-raymondmaoca@gmail.com/
 
+## ESOS Firmware
+
+| Item | Detail |
+|------|--------|
+| File | `esos.itb` |
+| Description | Prebuilt RCPU firmware for K3 SoC |
+| Source | [spacemit-com/esos](https://github.com/spacemit-com/esos) |
+| Tag | `k3-br-v1.0.0` |
+| Commit | `65e455b7c9316d7140b3656de6fcf4907b02b545` |
+
 ## Discussion
 
 For discussions about SpacemiT U-Boot, please CC the mailing list:
